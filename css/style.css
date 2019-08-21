@@ -1,0 +1,75 @@
+body{
+  
+}
+#welcome{
+
+  text-align: center; 
+  font-size: 80px
+}
+
+#details{
+   background:#e1e8f2; 
+   padding: 20px; 
+   margin-left: 3px"
+}
+
+#details h1{
+      padding-top: 20px
+}
+
+#details article{
+  padding: 20px
+}
+
+.footer-copyright{
+  padding-top: 10px;
+}
+
+.footer-copyright button{
+  margin-bottom: 5px 
+}
+
+#social li{
+  display: inline; 
+}
+
+#second a{
+  color: #000000;
+}
+#last {
+  padding: 10px;
+}
+
+#othergame h1{
+    padding-top: 30px;
+
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-instagram {
+  background: #cb2027;
+  color: white;
+}
